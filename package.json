@@ -1,0 +1,14 @@
+{
+  "name": "kes-ds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kschieren/kes-ds.git",
+  "author": "Kai Erik Schieren <kai.schieren@soprasteria.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^6.5.1"
+  }
+}
